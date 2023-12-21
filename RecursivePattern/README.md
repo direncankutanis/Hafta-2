@@ -1,0 +1,2 @@
+# Recursive Design Pattern:
+A program that subtracts the digit 5 from the entered number until the entered number becomes 0 or negative, printing the final value on the screen after each subtraction operation. After the number becomes negative or 0, it adds 5 again, printing the final value on the screen after each addition operation
